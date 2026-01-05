@@ -17,3 +17,6 @@
 
 *.json
 *.txt
+
+/node_modules
+*.md
